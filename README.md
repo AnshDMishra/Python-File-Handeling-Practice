@@ -274,6 +274,15 @@ file.close()
 ### Contributing 💡
 
 If you want to contribute to this project and make it better with new Question and their Solutions, your pull request is most welcomed. If you find any issue just put it in the repository issue section.
+<br>
+<br>
+or
+<br>
+<h5> If you have any suggetions or advice please feel free to connect me:--
+
+<a href="mailto:anshvnm@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://github.com/anshdmishra" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+</h5>
 
 #
 
